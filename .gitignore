@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+expense_anomaly_report.csv
+expense_anomalies.png
